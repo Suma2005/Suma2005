@@ -17,7 +17,7 @@
 <h2>👩‍💻 About Me</h2>
 
 🎓 **B.Tech in Artificial Intelligence & Machine Learning**  
-*Malla Reddy Engineering College for Women* — **GPA: 9.42**
+*Malla Reddy Engineering College for Women* 
 
 🔭 **Currently working on**  
 AI • Generative AI • Machine Learning • Data Science projects
